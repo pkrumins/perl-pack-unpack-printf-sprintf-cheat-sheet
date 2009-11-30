@@ -6,13 +6,15 @@ printf/sprintf format specifiers and format attributes.
 I created this when I was mastering what could be done with pack/unpack. I
 added printf/sprintf as I could never remember all the format specifiers.
 
+------------------------------------------------------------------------------
+
 This cheat sheet was created by Peteris Krumins (peter@catonmat.net).
 His blog is at http://www.catonmat.net  --  good coders code, great reuse.
 
 The cheat sheet is released under GNU Free Documentation License.
 
-The cheat sheet was created as a part of my article "Perl pack/unpack and
-printf Cheat Sheet". This article can be read here:
+The cheat sheet was also featured in my article "Perl pack/unpack and printf
+Cheat Sheet". This article can be read here:
 
     http://www.catonmat.net/blog/perl-pack-unpack-printf-cheat-sheet/
 
